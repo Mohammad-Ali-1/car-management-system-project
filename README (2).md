@@ -63,3 +63,9 @@ The application will launch the MAIN MENU. If the script attempts to load a file
 - 	Select a model (e.g., A8).
 - 	Verify that a line graph window appears showing the sales trend for the selected model.
 - 	Repeat the process for 2. Car Wise Bar Graph.
+## Screenshot
+<img width="1651" height="1126" alt="image" src="https://github.com/user-attachments/assets/6cfc964b-a35b-46e6-8a7d-5a3879212026" />
+<img width="1055" height="693" alt="image" src="https://github.com/user-attachments/assets/0b7a3051-cf26-427b-aee2-e88fd0802337" />
+<img width="1697" height="961" alt="image" src="https://github.com/user-attachments/assets/894e8a02-1333-46ee-8341-dbbd21b1565c" />
+<img width="1733" height="930" alt="image" src="https://github.com/user-attachments/assets/9436567a-b14f-4299-bf16-8ba1f8425ecb" />
+
